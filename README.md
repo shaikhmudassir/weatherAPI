@@ -7,3 +7,8 @@
 
 #### Sample 3
 ![Sample Image](img/3.png?raw=true)
+
+---
+### Reference
+[Weather API Docs](https://www.weatherapi.com/docs/)
+[Bootstrap Weather Snippet](https://mdbootstrap.com/docs/standard/extended/weather/#section-2)

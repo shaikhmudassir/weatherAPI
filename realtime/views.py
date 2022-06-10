@@ -8,8 +8,6 @@ class cityForm(forms.Form):
         'placeholder':'City',
     }))
 
-# https://mdbootstrap.com/docs/standard/extended/weather/#section-2
-# https://www.weatherapi.com/docs/
 def index(request):
     if request.method == "POST":
         form = cityForm(request.POST)
