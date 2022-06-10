@@ -10,5 +10,5 @@
 
 ---
 ### Reference
-[Weather API Docs](https://www.weatherapi.com/docs/)
-[Bootstrap Weather Snippet](https://mdbootstrap.com/docs/standard/extended/weather/#section-2)
+* [Weather API Docs](https://www.weatherapi.com/docs/)
+* [Bootstrap Weather Snippet](https://mdbootstrap.com/docs/standard/extended/weather/#section-2)
